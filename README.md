@@ -4,8 +4,6 @@ Awesome resources for Protractor, based on the [Awesome](https://github.com/sind
 
 > [Protractor](http://www.protractortest.org/) is an end-to-end test framework for AngularJS applications
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
-
 
 ## Table of Contents
 
@@ -46,8 +44,7 @@ Awesome resources for Protractor, based on the [Awesome](https://github.com/sind
 
 ## Related Awesome Lists
 
-- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
-
+- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.m
 
 ## License
 
