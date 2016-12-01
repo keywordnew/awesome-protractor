@@ -1,7 +1,11 @@
 # Awesome Protractor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Awesome resources for Protractor, based on the [Awesome](https://github.com/sindresorhus/awesome/) project
 
-[Protractor](http://www.protractortest.org/) is an end-to-end test framework for AngularJS applications
+
+> [Protractor](http://www.protractortest.org/) is an end-to-end test framework for AngularJS applications
+
+✨ resources for Protractor, based on the [Awesome](https://github.com/sindresorhus/awesome/) project
+
+Inspired by [Awesome Relay](https://github.com/expede/awesome-relay)
 
 
 ## Table of Contents
@@ -43,7 +47,7 @@ Awesome resources for Protractor, based on the [Awesome](https://github.com/sind
 
 ## Related Awesome Lists
 
-- [Free Software TestingBooks](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
+- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
 
 ## License
 
