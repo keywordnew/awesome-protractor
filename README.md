@@ -21,8 +21,8 @@ Inspired by [Awesome Relay](https://github.com/expede/awesome-relay)
 
 
 ## Documentation
-- [Official Docs](#http://www.protractortest.org/#/api) - Protractor official documentation.
-- [Timeouts](#http://www.protractortest.org/#/timeouts) - Timeouts are a frequent issue when using Protractor 😉 Debug using this helpful page.
+- [Official Docs](http://www.protractortest.org/#/api) - Protractor official documentation.
+- [Timeouts](http://www.protractortest.org/#/timeouts) - Timeouts are a frequent issue when using Protractor 😉 Debug using this helpful page.
 
 
 ## Introduction
@@ -47,8 +47,8 @@ Inspired by [Awesome Relay](https://github.com/expede/awesome-relay)
 
 ## Support
 
-- [Stack Overflow](http://stackoverflow.com/questions/tagged/protractor)
-- [Gitter chat](https://gitter.im/angular/protractor)
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/protractor) - A single space to find related help.
+- [Gitter chat](https://gitter.im/angular/protractor) - An active conversation around use of the tool.
 
 
 ## Related Awesome Lists
