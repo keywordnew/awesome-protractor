@@ -11,37 +11,38 @@ Inspired by [Awesome Relay](https://github.com/expede/awesome-relay)
 ## Table of Contents
 
 - [Documentation](#documentation)
+- [Introduction](#introduction)
 - [Articles](#articles)
 - [Videos](#videos)
 - [Packages](#packages)
 - [Works with Protractor](#works-with-protractor)
-- [Miscellaneous](#miscellaneous)
 - [Support](#support)
 - [Related Awesome Lists](#related-awesome-lists)
 
 
 ## Documentation
-- [Official Docs](#http://www.protractortest.org/#/api) - Protractor official documentation
+- [Official Docs](#http://www.protractortest.org/#/api) - Protractor official documentation.
 - [Timeouts](#http://www.protractortest.org/#/timeouts) - Timeouts are a frequent issue when using Protractor 😉 Debug using this helpful page.
+
+
+## Introduction
+
+- [Slides from Ramon Victor's Protractor talk](https://ramonvictor.github.io/protractor/slides/) - A quick and useful introduction to Protractor.
+
 
 ## Articles
 
-- [Styleguide](https://github.com/CarmenPopoviciu/protractor-styleguide) - A life-saving styleguide to structuring tests using Protractor by Carmen Popoviciu
+- [Styleguide](https://github.com/CarmenPopoviciu/protractor-styleguide) - A life-saving styleguide to structuring tests using Protractor by Carmen Popoviciu.
 
 
 ## Videos
 
-- [Styleguide companion video](https://www.youtube.com/watch?v=-lTGnYwnEuM) - Carmen Popoviciu and Andres Dominguez introduce a Protractor styleguide at AngularConnect
+- [Styleguide companion video](https://www.youtube.com/watch?v=-lTGnYwnEuM) - Carmen Popoviciu and Andres Dominguez introduce a Protractor styleguide at AngularConnect.
 
 
 ## Works with Protractor
 
-- [Mocha](https://mochajs.org/) - a feature-rich JavaScript test framework running on Node.js and in the browser
-
-
-## Miscellaneous
-
-- [Slides from Ramon Victor's Protractor talk](https://ramonvictor.github.io/protractor/slides/)
+- [Mocha](https://mochajs.org/) - a feature-rich JavaScript test framework running on Node.js and in the browser.
 
 
 ## Support
