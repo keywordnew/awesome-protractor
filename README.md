@@ -10,6 +10,7 @@ Inspired by [Awesome Relay](https://github.com/expede/awesome-relay)
 
 ## Table of Contents
 
+- [Documentation](#documentation)
 - [Articles](#articles)
 - [Videos](#videos)
 - [Packages](#packages)
@@ -17,6 +18,10 @@ Inspired by [Awesome Relay](https://github.com/expede/awesome-relay)
 - [Miscellaneous](#miscellaneous)
 - [Support](#support)
 - [Related Awesome Lists](#related-awesome-lists)
+
+
+## Documentation
+- [Official Docs](#http://www.protractortest.org/#/api) - Protractor official documentation
 
 
 ## Articles
@@ -48,6 +53,7 @@ Inspired by [Awesome Relay](https://github.com/expede/awesome-relay)
 ## Related Awesome Lists
 
 - [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
+
 
 ## License
 
