@@ -22,7 +22,7 @@ Inspired by [Awesome Relay](https://github.com/expede/awesome-relay)
 
 ## Documentation
 - [Official Docs](#http://www.protractortest.org/#/api) - Protractor official documentation
-
+- [Timeouts](#http://www.protractortest.org/#/timeouts) - Timeouts are a frequent issue when using Protractor 😉 Debug using this helpful page.
 
 ## Articles
 
